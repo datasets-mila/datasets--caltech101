@@ -3,3 +3,5 @@
 /.tmp/
 /logs/
 /scripts/caltech101_config
+/caltech101/*_ObjectCategories/
+/caltech101/Annotations/
